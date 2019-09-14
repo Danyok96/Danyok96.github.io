@@ -98,7 +98,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #000;
+		color: #fff;
 		font-family: "Lato", sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -2807,8 +2807,8 @@ input, select, textarea {
 					}
 
 						#header > nav ul li a.active {
-							background: #fff;
-							color: #000000 !important;
+							background: #000;
+							color: #4acaa8 !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -2839,9 +2839,9 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #fafafa;
+		background: #000000;
 		border-top: 0;
-		color: #000000;
+		color: #fafafa;
 		overflow: hidden;
 		padding: 4em 0 2em 0;
 	}
